@@ -10,7 +10,7 @@
  - `git remote add origin https://github.com/melonpocky/CalBridge-Github-Repo.git` to connect with this repo
  - `git push --set-upstream origin master`
  - if you have an online empty github repo you may need to use the following commands:
-  - `git checkout master`
-  - `git branch main master -f`
-  - `git checkout main`
-  - `git push origin main -f`
+   - `git checkout master`
+   - `git branch main master -f`
+   - `git checkout main`
+   - `git push origin main -f`
