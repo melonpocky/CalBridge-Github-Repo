@@ -14,3 +14,5 @@
    - `git branch main master -f`
    - `git checkout main`
    - `git push origin main -f`
+
+Pokemon game not created by me, need to find author. 
